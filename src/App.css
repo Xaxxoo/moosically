@@ -9,13 +9,45 @@
 } */
 
 body {
-  margin: 0;
+  margin: 30px;
   padding: 0;
   background-color: #3c096c;
   color: white;
   font-size: 1rem;
 }
 
-input {
-  margin: 20px;
+
+
+.joinGame {
+  margin-left: 100px;
+  
+}
+
+.joinInput {
+  width: 200px;
+  margin-left: 10px;
+}
+
+.button {
+  height: 35px;
+  border: white;
+  border-radius: 0%;
+  padding-left: 10px;
+  padding-right: 10;
+  color: white ;
+  margin-top: 20px;
+  margin-left:100px;
+ 
+  background-color: blue;
+}
+
+
+.startDiv {
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.code {
+  margin-top: 20px;
 }
